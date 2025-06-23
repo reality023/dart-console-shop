@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_shop",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    }
+  ],
+  "generated": "2025-06-23T04:26:18.356352Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.3",
+  "flutterRoot": "file:///Users/gridy/Flutter/flutter",
+  "flutterVersion": "3.24.3",
+  "pubCache": "file:///Users/gridy/.pub-cache"
+}
