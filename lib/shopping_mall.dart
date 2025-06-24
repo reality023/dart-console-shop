@@ -21,6 +21,11 @@ class ShoppingMall {
     ]);
   }
 
+  void clearCart() {
+    cart.clear();
+    total = 0;
+  }
+
   void showProducts() {
     for (var product in products) {
       print(
