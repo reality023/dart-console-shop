@@ -14,13 +14,37 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "clock",
+      "rootUri": "file:///Users/gridy/.pub-cache/hosted/pub.dev/clock-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/gridy/.pub-cache/hosted/pub.dev/intl-0.20.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/gridy/.pub-cache/hosted/pub.dev/meta-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/gridy/.pub-cache/hosted/pub.dev/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "dart_shop",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-06-23T04:40:18.626004Z",
+  "generated": "2025-06-23T22:49:36.376484Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///Users/gridy/Flutter/flutter",
