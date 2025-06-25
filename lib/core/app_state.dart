@@ -12,6 +12,4 @@ class AppState {
 
   String page = Page.HOME.name;
   ShoppingMall mall = ShoppingMall();
-
-  set state(AppState value) {}
 }
